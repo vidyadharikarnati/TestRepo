@@ -4,6 +4,10 @@ Change 1 in file1
 
 Change 2 in file1
 
+<<<<<<< HEAD
 change3
 
 change 4
+=======
+change3
+>>>>>>> 72d3d23 (change for idea)
